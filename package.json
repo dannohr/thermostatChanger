@@ -1,0 +1,23 @@
+{
+  "name": "thermostatchanger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannohr/thermostatChanger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannohr/thermostatChanger/issues"
+  },
+  "homepage": "https://github.com/dannohr/thermostatChanger#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "node-cron": "^2.0.3"
+  }
+}
